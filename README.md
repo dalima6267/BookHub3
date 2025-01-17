@@ -17,21 +17,21 @@ BookHub is a modern and interactive mobile application designed for book lovers 
 ## Screenshots
 This is a first page which is a profile section
 
-<img src="https://github.com/user-attachments/assets/1f2ae66e-f1f8-46e7-b8d8-d95bacf329ab" alt="profile bookhub" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/1f2ae66e-f1f8-46e7-b8d8-d95bacf329ab" alt="profile bookhub" width="300" height="550">
 
 
 Second is the Dashboard
 
-<img src="https://github.com/user-attachments/assets/93fbd608-9bcb-42c3-b5ba-c6995922c13e" alt="second page" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/93fbd608-9bcb-42c3-b5ba-c6995922c13e" alt="second page" width="300" height="550">
 
 Third favourates page
 
-<img src="https://github.com/user-attachments/assets/26e95a3b-7784-4319-b78f-6074a1182647" alt="third page" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/26e95a3b-7784-4319-b78f-6074a1182647" alt="third page" width="300" height="550">
 
  Navigation Page
  
  
-<img src="https://github.com/user-attachments/assets/19a6071c-f176-415d-a62b-e473000bf301" alt="last page" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/19a6071c-f176-415d-a62b-e473000bf301" alt="last page" width="300" height="550">
 
 
 
